@@ -11,13 +11,13 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/MALW4R3/TOOLWARE
+git clone https://github.com/gmhackerZ/toolwapk
 
 ls
 
-cd TOOLWARE
+cd toolmak
 
-python2 TOOLWARE.PY
+python2 toolmak.PY
 
 เสร็จ
 โปรดติดตม  defalt th ด้วย
